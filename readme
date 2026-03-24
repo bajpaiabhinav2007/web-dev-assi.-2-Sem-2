@@ -1,0 +1,22 @@
+🚀 Built My First API-Based Project!
+
+Excited to share my **Async Weather Tracker** 🌦️ — my first project where I implemented **API fetching using JavaScript**.
+
+🔹 Fetches real-time weather data
+🔹 Uses async/await for handling API calls
+🔹 Displays temperature, humidity, wind speed, and conditions
+🔹 Stores search history using localStorage
+🔹 Clean and responsive UI
+
+This project helped me deeply understand:
+
+* API integration
+* Promises, async/await
+* DOM manipulation
+* Real-world JavaScript workflow
+
+🔗 Live Project: https://bajpaiabhinav2007.github.io/web-dev-assi.-2-Sem-2/
+
+More improvements coming soon 🚀
+
+#WebDevelopment #JavaScript #FrontendDevelopment #APIs #AsyncAwait #CodingJourney #100DaysOfCode #StudentDeveloper #LearnByBuilding #GitHubProjects #OpenToWork
